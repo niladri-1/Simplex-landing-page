@@ -22,11 +22,11 @@ The Simple Homepage is a minimalistic yet stylish web page crafted using HTML an
 
 To view the Simple Homepage, visit the live web page:
 
-[Link to Live Homepage](https://your-homepage-url.com)
+[Link to Live Homepage](https://niladri-1.github.io/Simplex-landing-page/)
 
 ## Contributions
 
-Contributions are welcome! If you want to contribute to this project, please follow our [Contributing Guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you want to contribute to this project.
 
 ## License
 
@@ -34,9 +34,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Author
 
-- [Your Name]
-- [Your Email]
+- Niladri Chatterjee
 
-## Acknowledgments
-
-- [Mention any other acknowledgments or libraries/resources used]
