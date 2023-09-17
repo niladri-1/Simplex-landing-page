@@ -18,11 +18,6 @@ The Simple Homepage is a minimalistic yet stylish web page crafted using HTML an
 - HTML
 - CSS
 
-## Getting Started
-
-To view the Simple Homepage, visit the live web page:
-
-[Link to Live Homepage](https://niladri-1.github.io/Simplex-landing-page/)
 
 ## Contributions
 
