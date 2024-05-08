@@ -4,7 +4,7 @@
 
 ## Description
 
-The Simple  Homepage is a minimalistic yet stylish web page crafted using HTML and CSS. It serves as a basic landing page with clean design and essential information.
+The Simple Homepage is a minimalistic yet stylish web page crafted using HTML and CSS. It serves as a basic landing page with clean design and essential information.
 
 ## Features
 
